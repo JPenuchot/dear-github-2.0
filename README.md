@@ -122,6 +122,7 @@ Signed,
 - Ben Blackmore, @bripkens (Software Engineer and NPM package author)
 - Tamzin Blake, @tamzinblake (Software Engineer)
 - Hannah Blau, @hannahblau (research software engineer)
+- Jules Pénuchot, @jpenuchot (Research & teaching)
 - Bobbbay Bobbbayan, @bobbbay (Full Stack Web Developer)
 - Tarun Boddupalli, @tarunbod (Software Developer)
 - Daniel Bolivar, @ddanielbee (Software Engineer)
